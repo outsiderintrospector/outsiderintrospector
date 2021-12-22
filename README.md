@@ -15,7 +15,28 @@
 # PROYECTS
 
 
-[https://indify.co/widgets/live/gallery/wwXJxQZTHSPQOg6lwDVX](https://indify.co/widgets/live/gallery/wwXJxQZTHSPQOg6lwDVX)
+## FOODLY APP
+
+Henry Bootcamp | [www.henry.com](http://www.henry.com/)
+
+📌  Recipes app with filter and sorting options grouped on diet type or healthy score also search by name and focused on recipes created by the user.
+
+**FrontEnd:** React | Redux  | Styled Components |Hooks
+
+**Backend:** NodeJS | Express | API CRUD.
+
+**Database:** PostgreSQL
+
+[https://vimeo.com/659176101/bc0d6b82b9](https://vimeo.com/659176101/bc0d6b82b9)
+
+# Líder Anónimo
+
+Personal Proyect | Twitter clone
+
+📌 My first encounter with firebase , absolutely amazing ✨
+
+### see [here](https://twitter-clone-acf3a.web.app)
+
 
 
 
