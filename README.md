@@ -1,7 +1,7 @@
 ![Alt Text](https://github.com/outsiderintrospector/outsiderpresentation/blob/main/Black%20&%20Silver%20Glitter%20Personal%20Profile%20LinkedIn%20Banner.gif?raw=true)
 
 
-# This is the Code Portal of SEBASTIÁN
+# Code Portal of SEBASTIÁN
 
 ## FULLSTACK DEVELOPER | COMUNICATOR | ARTIST
 
