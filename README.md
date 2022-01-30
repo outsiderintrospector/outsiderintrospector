@@ -10,7 +10,7 @@
 > **Hello there! 👋🏻 I’love to talk about the future, art and new ideas** 🔮
 > 
 
-🌎 I have a background in audiovisual arts and music and a PR bachelor’s degree in course , my first encounter with JavaScript was an intense moment 🔥 almost like if i just found a superpower to think and evolve ,currently i’m sharpening my skills in Frontend and learning about web3 and Blockchain.
+🌎 I have a background in audiovisual arts and music and a Global Comunications bachelor’s degree in course 🔥  i love to think deeply and evolve ,currently i’m sharpening my skills  learning about web3 and Blockchain.
 
 # PROYECTS
 
