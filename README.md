@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/outsiderintrospector/outsiderpresentation/blob/main/Black%20&%20Silver%20Glitter%20Personal%20Profile%20LinkedIn%20Banner.gif?raw=true)
+![Alt Text](https://github.com/outsiderintrospector/outsiderintrospector/blob/main/Personal%20Profile%20LinkedIn%20Banner.gif?raw=true)
 
 
 # Code Portal of SEBASTIÁN
@@ -10,7 +10,7 @@
 > **Hello there! 👋🏻 I’love to talk about the future, art and new ideas** 🔮
 > 
 
-🌎 I have a background in audiovisual arts and music and a Global Comunications bachelor’s degree in course 🔥  i love to think deeply and evolve ,currently i’m sharpening my skills  learning about web3 and Blockchain.
+🌎 I have a background in audiovisual arts , music and a Global Comunications bachelor’s degree in course 🔥  i love to think deeply and evolve ,currently i’m sharpening my skills learning about web3 and Blockchain. 
 
 # PROYECTS
 
@@ -42,11 +42,11 @@ Personal Proyect | Twitter clone
 
 - 🔭 I’m currently working on **graduation proyect on HENRY**
 
-- 🌱 I’m currently learning **Next js , Figma and Soft skills**
+- 🌱 I’m currently learning **Solidity**
 
 - 👯 I’m looking to collaborate on **any React or Next js proyect**
 
-- 📝 I regularly write articles on [https://dev.to/outsiderintrospector](https://dev.to/outsiderintrospector)
+<!-- - 📝 I regularly write articles on [https://dev.to/outsiderintrospector](https://dev.to/outsiderintrospector) -->
 
 - 💬 Ask me about **react , blockchain , public relations , creativity and meditation**
 
