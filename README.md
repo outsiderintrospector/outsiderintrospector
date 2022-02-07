@@ -1,7 +1,7 @@
 ![Alt Text](https://github.com/outsiderintrospector/outsiderintrospector/blob/main/Personal%20Profile%20LinkedIn%20Banner.gif?raw=true)
 
 
-# Welcome to this Portal of Ideas!
+# Welcome to this portal of ideas!
 
 ## Im a FULLSTACK DEVELOPER | COMUNICATOR | ARTIST
 
