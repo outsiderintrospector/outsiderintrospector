@@ -1,7 +1,7 @@
 ![Alt Text](https://github.com/outsiderintrospector/outsiderintrospector/blob/main/Personal%20Profile%20LinkedIn%20Banner.gif?raw=true)
 
 
-# SCORPION DEV
+# S C O R P I O N   D E V
 
 ## Im a FULLSTACK DEVELOPER | COMUNICATOR | ARTIST
 
