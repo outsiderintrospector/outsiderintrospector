@@ -11,6 +11,9 @@
 > 
 
 🌎 I have a background in audiovisual arts , music and a Global Comunications bachelor’s degree in course 🔥  i love to think deeply and evolve .Currently i’m sharpening my skills learning about web3 and Blockchain. 
+-curious and creative-
+-Team Player-
+-CatLover-
 
 # PROYECTS
 
