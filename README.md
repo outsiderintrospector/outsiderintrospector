@@ -1,7 +1,7 @@
 ![Alt Text](https://github.com/outsiderintrospector/outsiderintrospector/blob/main/Personal%20Profile%20LinkedIn%20Banner.gif?raw=true)
 
 
-# Welcome to this portal of ideas!
+# SCORPION DEV
 
 ## Im a FULLSTACK DEVELOPER | COMUNICATOR | ARTIST
 
@@ -33,7 +33,7 @@ Henry Bootcamp | [www.henry.com](http://www.henry.com/)
 
 Personal Proyect | Twitter clone
 
-📌 My first encounter with firebase , absolutely amazing ✨
+📌  firebase , absolutely amazing ✨
 
 ### see [here](https://twitter-clone-acf3a.web.app)
 
