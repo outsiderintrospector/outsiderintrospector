@@ -52,7 +52,7 @@ Personal Proyect | Twitter clone
 
 - 📫 How to reach me **jsebcarvajal@gmail.com**
 
-- ⚡ Fun fact **I love pickles more than cookies**
+⚡ **banner made with touchdesigner & Ilustrator**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
