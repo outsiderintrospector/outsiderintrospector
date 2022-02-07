@@ -1,13 +1,13 @@
 ![Alt Text](https://github.com/outsiderintrospector/outsiderintrospector/blob/main/Personal%20Profile%20LinkedIn%20Banner.gif?raw=true)
 
 
-# Code Portal of SEBASTIÁN
+# Welcome to this Portal of Ideas!
 
-## FULLSTACK DEVELOPER | COMUNICATOR | ARTIST
+## Im a FULLSTACK DEVELOPER | COMUNICATOR | ARTIST
 
 ---
 
-> **Hello there! 👋🏻 I’love to talk about the future, art and new ideas** 🔮
+> **👋🏻 I’love to talk about the future, art and new ideas** 🔮
 > 
 
 🌎 I have a background in audiovisual arts , music and a Global Comunications bachelor’s degree in course 🔥  i love to think deeply and evolve ,currently i’m sharpening my skills learning about web3 and Blockchain. 
