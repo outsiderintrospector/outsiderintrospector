@@ -10,7 +10,7 @@
 > **👋🏻 I’love to talk about the future, art and new ideas** 🔮
 > 
 
-🌎 I have a background in audiovisual arts , music and a Global Comunications bachelor’s degree in course 🔥  i love to think deeply and evolve ,currently i’m sharpening my skills learning about web3 and Blockchain. 
+🌎 I have a background in audiovisual arts , music and a Global Comunications bachelor’s degree in course 🔥  i love to think deeply and evolve .Currently i’m sharpening my skills learning about web3 and Blockchain. 
 
 # PROYECTS
 
