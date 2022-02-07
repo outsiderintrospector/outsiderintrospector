@@ -1,9 +1,9 @@
 ![Alt Text](https://github.com/outsiderintrospector/outsiderintrospector/blob/main/Personal%20Profile%20LinkedIn%20Banner.gif?raw=true)
 
 
-# S C O R P I O N   D E V
+# SCORPION DEV 
 
-## Im a FULLSTACK DEVELOPER | COMUNICATOR | ARTIST
+## FULL-STACK DEV (MERN or whatever (:)| COMUNICATOR | ARTIST
 
 ---
 
