@@ -1,16 +1,19 @@
 ![Alt Text](https://github.com/outsiderintrospector/outsiderintrospector/blob/main/Personal%20Profile%20LinkedIn%20Banner.gif?raw=true)
 
 
-# Code Portal of SEBASTIÁN
+# SCORPION DEV 
 
-## FULLSTACK DEVELOPER | COMUNICATOR | ARTIST
+## FULL-STACK DEV || COMUNICATOR || ARTIST
 
 ---
 
-> **Hello there! 👋🏻 I’love to talk about the future, art and new ideas** 🔮
+> **👋🏻 I’love to talk about the future, art and new ideas** 🔮
 > 
 
-🌎 I have a background in audiovisual arts , music and a Global Comunications bachelor’s degree in course 🔥  i love to think deeply and evolve ,currently i’m sharpening my skills learning about web3 and Blockchain. 
+🌎 I have a background in audiovisual arts , music and a Global Comunications bachelor’s degree in course 🔥  i love to think deeply and evolve .Currently i’m sharpening my skills learning about web3 and Blockchain. 
+-curious and creative-
+-Team Player-
+-CatLover-
 
 # PROYECTS
 
@@ -51,7 +54,7 @@ Services : **Full Stack Development**
 
 Personal Proyect | Twitter clone
 
-📌 My first encounter with firebase , absolutely amazing ✨
+📌  firebase , absolutely amazing ✨
 
 ### see [here](https://twitter-clone-acf3a.web.app)
 
@@ -69,7 +72,7 @@ Personal Proyect | Twitter clone
 
 - 📫 How to reach me **jsebcarvajal@gmail.com**
 
-- ⚡ Fun fact **I love pickles more than cookies**
+⚡ **banner made with touchdesigner & Ilustrator**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
