@@ -14,6 +14,20 @@
 
 # PROYECTS
 
+## findSpot
+
+Henry Bootcamp | [www.henry.com](http://www.henry.com/)
+
+📌  React Native App created with a focus on events and experiences between users, based on their locations and interests. findSpot offers a great variety of filters, email verification, data sync support, and QR code for online tickets. For Android and IOS
+
+Work made in Scrum mode.
+
+Services : **FrontEnd and Brand Design
+Tools : Stripe, Figma , Expo, React Native Paper , axios , npm , C/ I** 
+
+![findspot02.png](This%20is%20th%200736e/findspot02.png)
+
+[https://vimeo.com/675919665](https://vimeo.com/675919665)
 
 ## FOODLY APP
 
@@ -21,13 +35,17 @@ Henry Bootcamp | [www.henry.com](http://www.henry.com/)
 
 📌  Recipes app with filter and sorting options grouped on diet type or healthy score also search by name and focused on recipes created by the user.
 
-**FrontEnd:** React | Redux  | Styled Components |Hooks
+Services : **Full Stack Development** 
+
+**FrontEnd:** React | Redux  | Styled Components | Hooks 
 
 **Backend:** NodeJS | Express | API CRUD.
 
 **Database:** PostgreSQL
 
-[https://vimeo.com/659176101/bc0d6b82b9](https://vimeo.com/659176101/bc0d6b82b9)
+[Vimeo](https://vimeo.com/manage/videos/675921106)
+
+![foodly 01.png](This%20is%20th%200736e/foodly_01.png)
 
 # Líder Anónimo
 
@@ -40,7 +58,6 @@ Personal Proyect | Twitter clone
 
 
 
-- 🔭 I’m currently working on **graduation proyect on HENRY**
 
 - 🌱 I’m currently learning **Solidity**
 
