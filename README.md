@@ -29,6 +29,7 @@ Services : **FrontEnd and Brand Design
 Tools : Stripe, Figma , Expo, React Native Paper , axios , npm , C/ I** 
 
 ![TL](Images/findspot02.png)
+![Map](Images/findspot03.png)
 
 [DEMO](https://vimeo.com/675919665)
 
@@ -46,14 +47,11 @@ Services : **Full Stack Development**
 **Backend:** NodeJS | Express | API CRUD.
 
 **Database:** PostgreSQL
-
-[DEMO](https://vimeo.com/manage/videos/675921106)
-
 ![LP](Images/foodly.png)
+[DEMO](https://vimeo.com/manage/videos/675921106)
+# Twitter Clone
 
-# Líder Anónimo
-
-Personal Proyect | Twitter clone
+Personal Proyect made for a maquetation course with deploy 
 
 📌  firebase , absolutely amazing ✨
 
