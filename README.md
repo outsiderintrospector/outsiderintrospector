@@ -28,9 +28,10 @@ Work made in Scrum mode.
 Services : **FrontEnd and Brand Design
 Tools : Stripe, Figma , Expo, React Native Paper , axios , npm , C/ I** 
 
-![findspot02.png](This%20is%20th%200736e/findspot02.png)
+![TL](Images/findspot02.png)
 
-[https://vimeo.com/675919665](https://vimeo.com/675919665)
+[DEMO](https://vimeo.com/675919665)
+
 
 ## FOODLY APP
 
@@ -46,9 +47,9 @@ Services : **Full Stack Development**
 
 **Database:** PostgreSQL
 
-[Vimeo](https://vimeo.com/manage/videos/675921106)
+[DEMO](https://vimeo.com/manage/videos/675921106)
 
-![foodly 01.png](This%20is%20th%200736e/foodly_01.png)
+![LP](Images/foodly.png)
 
 # Líder Anónimo
 
