@@ -40,8 +40,8 @@ Henry Bootcamp | [www.henry.com](http://www.henry.com/)
 📌  Recipes app with filter and sorting options grouped on diet type or healthy score also search by name and focused on recipes created by the user.
 
 - Services : **Full Stack Development**
-- Tools:
-  **FrontEnd:** React | Redux | Styled Components | Hooks
+
+**FrontEnd:** React | Redux | Styled Components | Hooks
 
 **Backend:** NodeJS | Express | API CRUD.
 
