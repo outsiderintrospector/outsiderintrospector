@@ -1,16 +1,16 @@
 ![Alt Text](https://github.com/outsiderintrospector/outsiderintrospector/blob/main/Personal%20Profile%20LinkedIn%20Banner.gif?raw=true)
 
-
-# SCORPION DEV 
+# SCORPION DEV
 
 ## FULL-STACK DEV || COMUNICATOR || ARTIST
 
 ---
 
-> **👋🏻 I’love to talk about the future, art and new ideas** 🔮
-> 
+> **👋🏻Hello! I’love to talk about the future, art and new ideas** 🔮
 
-🌎 I have a background in audiovisual arts , music and a Global Comunications bachelor’s degree in course 🔥  i love to think deeply and evolve .Currently i’m sharpening my skills learning about web3 and Blockchain. 
+🌎 I have a background in audiovisual arts , music and a Global Comunications bachelor’s degree in course 🔥 Interested in any kind of scalable projects and creative companies, competent in the Scrum mode and with personality type perfect for working on teams,with great ideas on the desk and a problem solving mind.
+I love to encourage my creativity and vision...
+
 -curious and creative-
 -Team Player-
 -CatLover-
@@ -25,14 +25,13 @@ Henry Bootcamp | [www.henry.com](http://www.henry.com/)
 
 Work made in Scrum mode.
 
--Services : FrontEnd and Brand Design
--Tools : Stripe, Figma , Expo, React Native Paper , axios , npm , C/ I** 
+- Services : FrontEnd and Brand Design
+- Tools : Stripe, Figma , Expo, React Native Paper , axios , npm , C/ I
 
 ![TL](Images/findspot02.png)
 ![Map](Images/findspot03.png)
 
 [DEMO](https://vimeo.com/675919665)
-
 
 ## FOODLY APP
 
@@ -40,26 +39,23 @@ Henry Bootcamp | [www.henry.com](http://www.henry.com/)
 
 📌  Recipes app with filter and sorting options grouped on diet type or healthy score also search by name and focused on recipes created by the user.
 
--Services : **Full Stack Development** 
--Tools:
-**FrontEnd:** React | Redux  | Styled Components | Hooks 
+- Services : **Full Stack Development**
+- Tools:
+  **FrontEnd:** React | Redux | Styled Components | Hooks
 
 **Backend:** NodeJS | Express | API CRUD.
 
 **Database:** PostgreSQL
 ![LP](Images/foodly.png)
 [DEMO](https://vimeo.com/manage/videos/675921106)
+
 # Twitter Clone
 
-Personal Proyect made for a maquetation course with deploy 
+Personal Proyect made for a maquetation course with deploy
 
 📌  firebase , absolutely amazing ✨
 
-###  [Deploy](https://twitter-clone-acf3a.web.app)
-
-
-
-
+### [Deploy](https://twitter-clone-acf3a.web.app)
 
 - 🌱 I’m currently learning **Solidity**
 
