@@ -25,8 +25,8 @@ Henry Bootcamp | [www.henry.com](http://www.henry.com/)
 
 Work made in Scrum mode.
 
-Services : **FrontEnd and Brand Design
-Tools : Stripe, Figma , Expo, React Native Paper , axios , npm , C/ I** 
+-Services : FrontEnd and Brand Design
+-Tools : Stripe, Figma , Expo, React Native Paper , axios , npm , C/ I** 
 
 ![TL](Images/findspot02.png)
 ![Map](Images/findspot03.png)
@@ -40,8 +40,8 @@ Henry Bootcamp | [www.henry.com](http://www.henry.com/)
 
 📌  Recipes app with filter and sorting options grouped on diet type or healthy score also search by name and focused on recipes created by the user.
 
-Services : **Full Stack Development** 
-
+-Services : **Full Stack Development** 
+-Tools:
 **FrontEnd:** React | Redux  | Styled Components | Hooks 
 
 **Backend:** NodeJS | Express | API CRUD.
