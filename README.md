@@ -11,10 +11,8 @@
 🌎 I have a background in audiovisual arts , music and a Global Comunications bachelor’s degree in course 🔥 Interested in any kind of scalable projects and creative companies, competent in the Scrum mode and with personality type perfect for working on teams,with great ideas on the desk and a problem solving mind.
 I love to encourage my creativity and vision...
 
--curious and creative-
--Team Player-
--CatLover-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jusebdev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jusebdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 # PROYECTS
 
 ## findSpot
