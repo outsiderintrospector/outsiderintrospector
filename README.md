@@ -14,7 +14,7 @@ I love to encourage my creativity and vision...
 -curious and creative-
 -Team Player-
 -CatLover-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jusebdev)](https://github.com/anuraghazra/github-readme-stats)
 # PROYECTS
 
 ## findSpot
