@@ -55,6 +55,11 @@ Personal Proyect made for a maquetation course with deploy
 
 ### [Deploy](https://twitter-clone-acf3a.web.app)
 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jusebdev&hide=stars&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 🌱 I’m currently learning **Solidity**
 
 - 👯 I’m looking to collaborate on **any React or Next js proyect**
