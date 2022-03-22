@@ -12,7 +12,7 @@
 I love to encourage my creativity and vision...
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jusebdev&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jusebdev&hide=stars,issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jusebdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # PROYECTS
