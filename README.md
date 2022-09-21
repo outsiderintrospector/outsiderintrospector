@@ -1,14 +1,11 @@
 
 
-## FULL-STACK DEV || COMUNICATOR || ARTIST
+## Hello! I’love to talk about the future, art and new ideas** 🔮
 
 ---
 
-> **👋🏻Hello! I’love to talk about the future, art and new ideas** 🔮
-
-🌎 I have a background in audiovisual arts , music and a Global Comunications bachelor’s degree 🔥 
-I love to encourage my creativity and vision...
-
+🌎 I have a background in audiovisual arts , music composition and Global Comunications bachelor’s degree.
+🔥 **motto : creativity and vision with unlimited purposes**
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jusebdev&hide=stars,issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
