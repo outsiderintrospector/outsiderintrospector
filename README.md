@@ -1,6 +1,6 @@
 
 
-## Hello! I’love to talk about the future, art and new ideas** 🔮
+## Hello! I’love to talk about the future, art and new ideas 🔮
 
 ---
 
