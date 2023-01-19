@@ -8,8 +8,10 @@
 🔥 **motto : creativity and vision with unlimited purposes**
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jusebdev&hide=stars,issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jusebdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=
+tech-tinker&hide=stars,issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=
+tech-tinker &layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # PROYECTS
 
