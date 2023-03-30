@@ -12,56 +12,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tech-tinker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# PROYECTS
-
-## findSpot
-
-Henry Bootcamp | [www.henry.com](http://www.henry.com/)
-
-📌  React Native App created with a focus on events and experiences between users, based on their locations and interests. findSpot offers a great variety of filters, email verification, data sync support, and QR code for online tickets. For Android and IOS
-
-Work made in Scrum mode.
-
-- Services : FrontEnd and Brand Design
-- Tools : Stripe, Figma , Expo, React Native Paper , axios , npm , C/ I
-
-![TL](Images/findspot02.png)
-![Map](Images/findspot03.png)
-
-[DEMO](https://vimeo.com/675919665)
-
-## FOODLY APP
-
-Henry Bootcamp | [www.henry.com](http://www.henry.com/)
-
-📌  Recipes app with filter and sorting options grouped on diet type or healthy score also search by name and focused on recipes created by the user.
-
-- Services : **Full Stack Development**
-
-**FrontEnd:** React | Redux | Styled Components | Hooks
-
-**Backend:** NodeJS | Express | API CRUD.
-
-**Database:** PostgreSQL
-![LP](Images/foodly.png)
-[DEMO](https://vimeo.com/manage/videos/675921106)
-
-# Twitter Clone
-
-Personal Proyect made for a maquetation course with deploy
-
-📌  firebase , absolutely amazing ✨
-
-### [Deploy](https://twitter-clone-acf3a.web.app)
 
 
 - 👯 I’m looking to collaborate on **any React or Next js proyect**
 
 <!-- - 📝 I regularly write articles on [https://dev.to/outsiderintrospector](https://dev.to/outsiderintrospector) -->
 
-- 💬 Ask me about **react, WEB 3  , public relations , creativity and meditation**
+- 💬 Ask me about **react, WEB 3  , public relations ,IA, creativity and state of mind**
 
-- 📫 How to reach me **jsebcarvajal@gmail.com**
+- 📫 How to reach me **tech-tinker@outlook.com**
 
 ⚡ 
 
