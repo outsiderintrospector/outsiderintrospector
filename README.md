@@ -5,7 +5,7 @@
 ---
 
 🌎 I have a background in audiovisual arts , music composition and Global Comunications bachelor’s degree.
-🔥 **motto : creativity and vision with unlimited purposes**
+ **motto : creativity and vision with unlimited purposes**🔥
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=tech-tinker&hide=stars,issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
