@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **WEB 3  , public relations ,IA, Creativity and State of mind**
 
-- 📫 How to reach me **tech-tinker@outlook.com** ⚡ 
+- 📫 How to reach me **jcarvajalbaez@uade.edu.ar** ⚡ 
 
 <h3 align="left">let's talk:</h3>
 <p align="left">
