@@ -23,5 +23,5 @@
 <!-- <a href="https://instagram.com/scorpion.dagger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="scorpion.dagger" height="30" width="40" /></a> -->
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=humancodex&theme=blueberry) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=humancodex&theme=material_palenight)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=humancodex&theme=material_palenight)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=humancodex&theme=blueberry)
 
