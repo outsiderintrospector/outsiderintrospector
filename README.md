@@ -25,7 +25,7 @@
 
 
 
-[![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username={humancodex}&theme={radical})
+http://github-profile-summary-cards.vercel.app/api/cards/stats?username={humancodex}&theme={radical}
 
-[![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={humancodex}&theme={tokyonight}&exclude={exclude})
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={humancodex}&theme={tokyonight}&exclude={exclude}
 
