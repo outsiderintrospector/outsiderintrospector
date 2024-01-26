@@ -7,7 +7,7 @@
 🌎 I have a background in audiovisual arts , music composition and Global Comunications bachelor’s degree.
  **motto : creativity and vision with unlimited purposes**🔥
  
-- 🔮 I’m looking to collaborate on **any web3 - AI project **
+- 🔮 I’m looking to collaborate on **any web3 - AI projects**
 
 <!-- - 📝 I regularly write articles on [https://dev.to/outsiderintrospector](https://dev.to/outsiderintrospector) -->
 
