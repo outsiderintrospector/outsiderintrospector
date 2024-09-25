@@ -4,10 +4,10 @@
 
 ---
 
-🌎 I have a background in audiovisual arts , music composition and Global Comunications bachelor’s degree.
+🌎 I have a background in audiovisual arts , music composition and a Global Comunications bachelor’s degree.
  **motto : creativity and vision with unlimited purposes**🔥
  
-- 🔮 I’m looking to collaborate on **any web3 - AI projects**
+- 🔮 I’m love to collaborate on **any web3 - AI projects**
 
 <!-- - 📝 I regularly write articles on [https://dev.to/outsiderintrospector](https://dev.to/outsiderintrospector) -->
 
@@ -23,5 +23,4 @@
 <!-- <a href="https://instagram.com/scorpion.dagger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="scorpion.dagger" height="30" width="40" /></a> -->
 </p>
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=humancodex&theme=material_palenight)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=humancodex&theme=blueberry)
 
